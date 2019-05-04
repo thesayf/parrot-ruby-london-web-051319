@@ -3,6 +3,6 @@
 
 def parrot(word = "Squawk!")
   
-  
+  return "#{word}"
   
 end
